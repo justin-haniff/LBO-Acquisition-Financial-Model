@@ -82,12 +82,4 @@ VBA macros require a supported desktop version of Excel. Review the macro code a
 Created as an individual graduate-level financial modeling project to demonstrate practical skills relevant to private equity, investment analysis, corporate finance, and financial analyst positions.
 
 
-## Model Screenshots
 
-### LBO Financial Dashboard
-
-![LBO Dashboard](screenshots/dashboard.png)
-
-### IRR Sensitivity Analysis
-
-![IRR Sensitivity Analysis](screenshots/sensitivity-analysis.png)
